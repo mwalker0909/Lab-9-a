@@ -1,27 +1,66 @@
 body {
-  width: 90%;
+  background-color: rgb(97, 97, 218, 0.2)
   
 }
 
-
-logo {
-  float: left;
+#navbar {
+  height: 71px;
+  margin-top: 10%;
+  margin-left: 16%;
 }
+
+#firstImage {
+  float: left;
+  
+} 
+
 ul {
   list-style-type: none;
-  overflow: hidden;
+  float: left;
+  width: 67%;
+  margin-left:1%;
 }
 
 li {
-  list-style-type: none;
-  display: inline-block;
-  padding: 5.5em;
+  list-style-type: none;  
+   float: left;
+   font-size: 120%;
+   font-family: 'Courier New', Courier, monospace;
+   margin-top: 5px
+}
+#list1 {
+  margin-left: 5%;
+}
+#list2 {
+  margin-left: 5%;
+}
+#list3 {
+  margin-left: 5%;
+}
+#list4 {
+  margin-left: 5%;
+}
+
+#hero{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 16%;
+  margin-bottom: 15px;
 
 }
 
-#logo {
-  float: left;
-  padding-top: 30px;
-  width: 100%;
+#subBanners
+{
+  margin-top: 30px;
+  margin-left: 16%;
 }
 
+#logo1 {
+  margin-left: 0%;
+}
+#logo2 {
+  margin-left: 2%;
+}
+#logo3 {
+  margin-left: 2%;
+}
