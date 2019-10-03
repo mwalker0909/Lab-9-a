@@ -1,0 +1,105 @@
+body {
+  background-color: rgb(97, 97, 218, 0.2)
+  
+}
+
+#navbar {
+  height: 71px;
+  margin-top: 10%;
+  margin-left: 16%;
+}
+
+#firstImage {
+  float: left;
+  
+} 
+
+ul {
+  list-style-type: none;
+  float: left;
+  width: 67%;
+  margin-left:1%;
+}
+
+li {
+  list-style-type: none;  
+   float: left;
+   font-size: 120%;
+   font-family: 'Courier New', Courier, monospace;
+   margin-top: 5px
+}
+#list1 {
+  margin-left: 5%;
+}
+#list2 {
+  margin-left: 5%;
+}
+#list3 {
+  margin-left: 5%;
+}
+#list4 {
+  margin-left: 5%;
+}
+
+#hero{
+  position: relative;
+  margin-top: 50px;
+  margin-left: 16%;
+  margin-bottom: 15px;
+
+}
+
+#subBanners
+{
+  margin-top: 30px;
+  margin-left: 16%;
+}
+
+#logo1 {
+  margin-left: 0%;
+}
+#logo2 {
+  margin-left: 2%;
+}
+#logo3 {
+  margin-left: 2%;
+}
+
+#featurePicture {
+  float: left;
+  width: 33%;
+  margin-top: 45px;
+  margin-left: 16%; 
+}
+#feature {
+  display: inline-block;
+
+}
+ h2 {
+   float: left;
+ }
+ 
+ #sectionHeader {
+   float: left;
+   margin-left: 95px;
+   margin-top: 55px;
+   width: 55%;
+ }
+#loremIpsum {
+  margin-top: 5%;
+  margin-left: 8%;
+  width:80%;  
+  float:left;
+}
+#pContainer {
+  width: 35%;
+  display: inline-block;
+}
+
+
+#callToAction {
+  margin-left:96px;
+  float:left;
+  margin-top:5%;
+  margin-bottom:40%;
+}
