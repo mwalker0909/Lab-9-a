@@ -81,25 +81,25 @@ li {
  
  #sectionHeader {
    float: left;
-   margin-left: 55px;
+   margin-left: 95px;
    margin-top: 55px;
-   width: 40%;
+   width: 55%;
  }
 #loremIpsum {
   margin-top: 5%;
-  margin-left: 5%;
+  margin-left: 8%;
   width:80%;  
   float:left;
 }
 #pContainer {
-  width: 45%;
+  width: 35%;
   display: inline-block;
 }
 
 
 #callToAction {
-  margin-left:15%;
+  margin-left:96px;
   float:left;
   margin-top:5%;
-  margin-bottom:20%;
+  margin-bottom:40%;
 }
